@@ -21,7 +21,7 @@ Welcome to the **Portfolio Project**, a vibrant and interactive web interface th
 
 ### Screenshots
 ![Project Screenshot](./images/SS1.png)
-![Project Screenshot](./images/SS2.png)
-![Project Screenshot](./images/SS3.png)
 ![Project Screenshot](./images/SS4.png)
+![Project Screenshot](./images/SS3.png)
+![Project Screenshot](./images/SS2.png)
 =======
