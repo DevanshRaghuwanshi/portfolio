@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Portfolio 
 
 Welcome to the **Portfolio Project**, a vibrant and interactive web interface that not only showcases my work but also reflects my journey as a web developer. Built using **HTML**, **CSS**, and a touch of **JavaScript**, this project highlights my creativity, skills, and dedication to crafting beautiful user interfaces.
@@ -23,3 +24,4 @@ Welcome to the **Portfolio Project**, a vibrant and interactive web interface th
 ![Project Screenshot](./images/SS2.png)
 ![Project Screenshot](./images/SS3.png)
 ![Project Screenshot](./images/SS4.png)
+=======
